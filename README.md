@@ -9,6 +9,7 @@
 - **docker-compose build**
 - **docker-compose up -d**
 - **composer install**
+- **npm i && npm run build**
 
 Проект развернут, зависимости установлены!
 4) Выполняем миграции
