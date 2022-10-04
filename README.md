@@ -12,6 +12,7 @@
 - **npm i && npm run build**
 
 Проект развернут, зависимости установлены!
+
 4) Выполняем миграции
 - Переходим в контейнер: **docker exec -it project_app bash**
 - Выполняем команду: **php artisan migrate** 
